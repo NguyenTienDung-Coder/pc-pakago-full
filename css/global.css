@@ -1,0 +1,66 @@
+.wrapper {
+  max-width: 1920px;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container-header-dung {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  height: 52px;
+}
+
+.container-menu-dung {
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-buy-pakago {
+  max-width: 1325px;
+  margin: 0 auto;
+  padding-top: 111px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-customer-guide {
+  max-width: 1289px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-vt-dung {
+  padding-top: 48px;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.container-vt-one-dung {
+  padding-top: 48px;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-feedback {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.container-footer {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
